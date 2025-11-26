@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 # Wixstro - Wix Astro Template
 
 A modern, full-featured Wix Astro template built with React, TypeScript, and Tailwind CSS. This template provides a solid foundation for building dynamic, interactive websites with Wix's powerful ecosystem.
